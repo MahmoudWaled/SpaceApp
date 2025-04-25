@@ -72,3 +72,5 @@ The solution is structured for scalability and maintainability:
 - Database Migrations  
 - External Services (e.g., EmailService, FileService)
 
+![screencapture-localhost-7125-swagger-index-html-2025-04-25-03_03_49](https://github.com/user-attachments/assets/347843db-3ced-49c2-b9d3-e6ba3efe126e)
+
